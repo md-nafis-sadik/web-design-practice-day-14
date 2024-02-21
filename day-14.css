@@ -1,0 +1,84 @@
+
+
+.RCC-left{
+    display: inline-block;
+    width: 40%;
+    margin: 0px 0px 0 170px;
+
+
+}
+
+h2{
+    padding: 50px 0px 10px 50px;
+    font-size: 1.8em;
+    color: #1a77f2;
+    font-weight: 720; 
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+p{
+    padding: 10px 70px 50px 50px;
+    font-size: 1.4em;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.RCC-right{
+    display: inline-block;
+    width: 40%;
+    margin: 150px 0px 0 50px;
+    
+    /* padding: 50px 100px 50px 100px; */
+
+}
+
+.form{
+    display: inline-block;
+    width: 40%;
+    padding: 10px 120px 50px 30px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.form-content{
+    display: flex;
+    flex-wrap: wrap;
+    height: 40px;
+    width: 300px;
+    /* padding: 10px 50px 10px 50px; */
+    margin: 20px 0px 20px 0;
+    padding: 0px 0px 0px 10px;
+    border-radius: 5px;
+    background-color: white;
+    border: solid 0.6px rgb(161, 161, 161);
+}
+
+.form-content-button{
+    display: flex;
+    flex-wrap: wrap;
+    width: 312px;
+    margin: 20px 0 20px 0;
+    background-color: #1a77f2; 
+    color: rgb(248, 248, 248); 
+    border: none;
+    border-radius: 5px;
+    padding: 12px 0 12px 0px;
+    font-size: 0.9em;
+    text-decoration: none;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+*{
+    background-color: #f0f2f5;
+    margin: 0;
+    padding: 0;
+}
+
+hr{
+    width: 310px;
+    margin: 20px 0 20px 0;
+}
